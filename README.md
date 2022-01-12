@@ -10,6 +10,7 @@ THỰC TẬP CHUYÊN MÔN NĂM HỌC 2020-2021
 - Cơ sử dữ liệu: SQLServer 
 ## Phần 2: Các chức năng đã hoàn thành
  Bao gồm các chức năng:
+- Trang cho admin : Thêm sửa xóa menu,banner,slider sản phẩm ,hình ảnh slider.
 - Đăng tin, Đăng bài, Chức năng hiển thị bài ưu tiên, đăng tin quảng cáo có giới hạn thời gian.
 - Người mua tương tác với người bán(chat, gửi gmail….).
 - Phân quyền chức năng tài khoản Admin, và User.
